@@ -1,0 +1,120 @@
+# ==============================================================================
+# DocuMind AI — Git Ignore Configuration
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. Environment Variables & Secrets (CRITICAL)
+# ------------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+!.env.*.example
+apps/*/.env
+apps/*/.env.*
+!apps/*/.env.example
+backend/.env
+backend/.env.*
+!backend/.env.example
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+*.local
+
+# Private Keys and Certificates
+*.pem
+*.key
+*.cert
+*.crt
+*.pfx
+*.p12
+
+# ------------------------------------------------------------------------------
+# 2. Dependencies & Package Managers
+# ------------------------------------------------------------------------------
+node_modules/
+*/node_modules/
+apps/*/node_modules/
+.pnp
+.pnp.js
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+
+# ------------------------------------------------------------------------------
+# 3. Production Build Artifacts & Caches
+# ------------------------------------------------------------------------------
+dist/
+*/dist/
+apps/*/dist/
+build/
+*/build/
+out/
+.next/
+.output/
+.turbo/
+.cache/
+.vite/
+*.tsbuildinfo
+
+# ------------------------------------------------------------------------------
+# 4. User Uploads, Temp Files & Processing Data (Privacy & Storage)
+# ------------------------------------------------------------------------------
+uploads/
+*/uploads/
+backend/uploads/*
+!backend/uploads/.gitkeep
+apps/api/uploads/*
+!apps/api/uploads/.gitkeep
+temp/
+*/temp/
+backend/temp/
+apps/api/temp/
+data/
+*/data/
+backend/data/
+apps/api/data/
+*.tmp
+*.temp
+*.log
+
+# ------------------------------------------------------------------------------
+# 5. Supabase Local CLI & Containers Temp Files
+# ------------------------------------------------------------------------------
+supabase/.temp/
+supabase/.branches/
+
+# ------------------------------------------------------------------------------
+# 6. Test Reports & Code Coverage
+# ------------------------------------------------------------------------------
+coverage/
+*/coverage/
+.nyc_output/
+*.lcov
+test-results/
+
+# ------------------------------------------------------------------------------
+# 7. Operating System Files
+# ------------------------------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# ------------------------------------------------------------------------------
+# 8. IDE & Editor Artifacts
+# ------------------------------------------------------------------------------
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.sublime-project
+*.sublime-workspace

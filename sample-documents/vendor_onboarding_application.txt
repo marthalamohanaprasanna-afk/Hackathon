@@ -1,0 +1,38 @@
+================================================================================
+ENTERPRISE VENDOR ONBOARDING APPLICATION FORM
+Nexus Global Logistics Compliance Department
+================================================================================
+Application ID: APP-VND-2024-902
+Submission Date: October 08, 2024
+
+SECTION 1: APPLICANT COMPANY PROFILE
+Company Legal Name:       Pacific Freight Solutions LLC
+DBA Name:                 PFS Freight
+Federal Tax ID / EIN:     88-2910482
+Country of Registration:  United States
+State of Registration:    Oregon
+Headquarters Address:     900 Riverfront Way, Suite 100, Portland, OR 97201
+Website:                  https://www.pfsfreight-example.com
+
+SECTION 2: PRIMARY CONTACT INFORMATION
+Primary Contact Name:     Robert Chen
+Title:                    VP of Logistics & Fleet Operations
+Business Email:           rchen@pfsfreight-example.com
+Direct Telephone:         (503) 555-0182
+
+SECTION 3: BANKING & REMITTANCE DETAILS (MANDATORY)
+Bank Name:                [MISSING - REQUIRED FIELD]
+Bank Account Number:      [MISSING - REQUIRED FIELD]
+Routing Number:           [MISSING - REQUIRED FIELD]
+Remittance Currency:      USD
+
+SECTION 4: COMPLIANCE & INSURANCE DECLARATIONS
+General Commercial Liability Policy Number: POL-GCL-992104
+Insurance Carrier:        Travelers Casualty Insurance
+Coverage Expiration Date: March 31, 2025
+Worker's Compensation Certificate: [NOT PROVIDED / PENDING REVIEW]
+
+Declaration:
+I hereby certify that all information provided in this application is true and complete to the best of my knowledge.
+Signature: Robert Chen
+Date: October 08, 2024

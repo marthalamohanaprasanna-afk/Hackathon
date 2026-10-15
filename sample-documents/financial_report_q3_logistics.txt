@@ -1,0 +1,24 @@
+================================================================================
+NEXUS GLOBAL LOGISTICS — Q3 2024 EXECUTIVE PERFORMANCE & FINANCIAL REPORT
+================================================================================
+Prepared By: David Vance, Chief Financial Officer
+Reporting Period: July 1, 2024 to September 30, 2024
+Published Date: October 10, 2024
+Distribution: Executive Leadership Team & Audit Committee
+
+1. EXECUTIVE SUMMARY & KEY FINANCIAL HIGHLIGHTS
+During Q3 2024, Nexus Global Logistics generated $18.4 million in total net freight and logistics revenue, representing a 24% year-over-year expansion compared to Q3 2023 ($14.8M). Operating margins expanded by 180 basis points to 18.2%.
+
+Key Performance Indicators:
+- Net Revenue:                     $18,400,000.00
+- Operating Income (EBIT):          $3,348,800.00
+- Cloud & Infrastructure IT Spend: $1,200,000.00
+- Fuel Hedging & Efficiency Gain:    $340,000.00
+- Active Enterprise Vendor Count:             48
+
+2. CAPITAL ALLOCATION & TECHNOLOGY MODERNIZATION
+The enterprise cloud modernization initiative managed in collaboration with Acme Technologies Inc. has migrated 68% of core routing and billing workloads to multi-region cloud infrastructure. Target completion is slated for Q1 2025.
+
+3. UPCOMING RISK & OBLIGATION MONITORING
+- Enterprise Master Services Agreement with key cloud provider Acme Technologies expires December 31, 2025; non-renewal notice must be filed by November 1, 2025.
+- State environmental fleet compliance audits scheduled for November 28, 2024 in Washington and California facilities.

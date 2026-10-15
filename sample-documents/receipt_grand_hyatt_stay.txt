@@ -1,0 +1,35 @@
+================================================================================
+GRAND HYATT SEATTLE
+721 Pine Street, Seattle, WA 98101
+Phone: (206) 774-1234 | Front Desk Reception
+================================================================================
+
+FOLIO / RECEIPT
+
+Folio Number:         FOL-882194
+Guest Name:           Sarah Jenkins
+Room Number:          1408
+Check-In Date:        10/12/2024 (15:30)
+Check-Out Date:       10/15/2024 (11:15)
+Payment Method:       Visa (Card ending in 4092)
+
+ITEMIZED CHARGES:
+Date       | Description                             | Amount
+--------------------------------------------------------------------------------
+10/12/2024 | Standard King Room (Night 1)           | $280.00
+10/13/2024 | Standard King Room (Night 2)           | $280.00
+10/14/2024 | Standard King Room (Night 3)           | $280.00
+10/13/2024 | Room Service Dining & Beverages         | $195.00
+10/14/2024 | Executive Valet Parking                | $90.00
+--------------------------------------------------------------------------------
+
+SUBTOTAL OF ELIGIBLE CHARGES:                        $1,125.00
+STATE & LOCAL LODGING TAX (15.6% Stated Rate):       $17.50
+--------------------------------------------------------------------------------
+TOTAL BILLED AND PAID:                               $1,142.50 USD
+--------------------------------------------------------------------------------
+
+Merchant ID: HYATT-SEA-09142
+Terminal ID: 88401
+Authorization Code: 049281
+Transaction Approved. Thank you for staying with Hyatt.

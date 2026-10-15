@@ -1,0 +1,39 @@
+================================================================================
+NEXUS GLOBAL LOGISTICS INC. — PROCUREMENT DIVISION
+450 Harbor Boulevard, Suite 1200, Seattle, WA 98101
+Phone: (206) 555-0140 | Email: procurement@nexuslogisticscorp.com
+================================================================================
+
+PURCHASE ORDER
+
+PO Number:            PO-99420
+Issue Date:           October 01, 2024
+Authorized Spend Cap: $42,000.00 USD
+Payment Terms:        Net 30 Days from Valid Milestone Acceptance
+Buyer:                Nexus Global Logistics Inc.
+Requisitioner:        Sarah Jenkins (Chief Procurement Officer)
+
+VENDOR INFORMATION:
+Vendor Name:          Acme Technologies Inc.
+Vendor Address:       100 Silicon Way, Suite 400, San Jose, CA 95112
+Vendor ID:            VND-ACME-8821
+Contact:              sales@acmetechnologies.io
+
+--------------------------------------------------------------------------------
+AUTHORIZED SCOPE & NOT-TO-EXCEED BUDGET:
+--------------------------------------------------------------------------------
+Line | Item Description                                | Cap Hours | Cap Amount
+--------------------------------------------------------------------------------
+1    | Cloud Infrastructure Modernization Consulting   | Up to 150 | $42,000.00
+--------------------------------------------------------------------------------
+TOTAL AUTHORIZED NOT-TO-EXCEED (NTE) CEILING:          $42,000.00 USD
+--------------------------------------------------------------------------------
+
+SPECIAL INSTRUCTIONS & MANDATORY CLAUSES:
+1. All invoices submitted against this Purchase Order must explicitly reference PO-99420.
+2. Invoices exceeding the authorized cap of $42,000.00 will be held in review queue and require written change-order amendment approval.
+3. Deliverables are governed under Master Services Agreement MSA-NEX-2024.
+
+Authorized Procurement Signature:
+Sarah Jenkins, Chief Procurement Officer
+Date: October 01, 2024

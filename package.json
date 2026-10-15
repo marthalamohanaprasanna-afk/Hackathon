@@ -1,0 +1,32 @@
+{
+  "name": "documind-ai-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DocuMind AI - Intelligent Document Processing Platform",
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspaces",
+    "dev:backend": "npm run dev --workspace=documind-api",
+    "dev:frontend": "npm run dev --workspace=documind-web",
+    "dev:api": "npm run dev --workspace=documind-api",
+    "dev:web": "npm run dev --workspace=documind-web",
+    "build": "npm run build --workspaces",
+    "build:backend": "npm run build --workspace=documind-api",
+    "build:frontend": "npm run build --workspace=documind-web",
+    "test": "npm run test --workspace=documind-api",
+    "supabase:env": "node scripts/supabase-env.js"
+  },
+  "keywords": [
+    "intelligent-document-processing",
+    "idp",
+    "gemini",
+    "ocr",
+    "supabase",
+    "rag"
+  ],
+  "author": "DocuMind AI Team",
+  "license": "MIT"
+}

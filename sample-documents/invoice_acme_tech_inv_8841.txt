@@ -1,0 +1,46 @@
+================================================================================
+ACME TECHNOLOGIES INC. — ENTERPRISE CLOUD SOLUTIONS
+100 Silicon Way, Suite 400, San Jose, CA 95112
+Phone: (408) 555-0199 | Email: billing@acmetechnologies.io | Tax ID: 94-3829104
+================================================================================
+
+INVOICE
+
+Invoice Number:       INV-2024-8841
+Invoice Date:         October 15, 2024
+Payment Due Date:     November 15, 2024
+Purchase Order Ref:   PO-99420
+Payment Terms:        Net 30 Days
+
+BILLED TO:
+Nexus Global Logistics Inc.
+Attn: Accounts Payable / Sarah Jenkins (CPO)
+450 Harbor Boulevard, Suite 1200
+Seattle, WA 98101
+United States
+
+--------------------------------------------------------------------------------
+LINE ITEMS & SERVICES:
+--------------------------------------------------------------------------------
+Item # | Description                                    | Qty | Rate      | Total
+--------------------------------------------------------------------------------
+1      | Cloud Migration Architecture Consulting (Hours)| 120 | $250.00   | $30,000.00
+2      | High-Availability Kubernetes Cluster Setup     | 50  | $230.00   | $11,500.00
+--------------------------------------------------------------------------------
+
+Financial Summary:
+Subtotal:                       $41,500.00
+State Sales/Services Tax (8.0%): $3,320.00
+Platform & Infrastructure Surcharge: $1,030.00
+--------------------------------------------------------------------------------
+TOTAL AMOUNT DUE:               $45,850.00 USD
+--------------------------------------------------------------------------------
+
+REMITTANCE & WIRE INSTRUCTIONS:
+Bank: Silicon Valley First National Bank
+Account Name: Acme Technologies Operating Inc.
+Routing / ABA: 121000358
+Account Number: 88390219482
+SWIFT / BIC: SVFBUS6S
+
+Thank you for partnering with Acme Technologies!

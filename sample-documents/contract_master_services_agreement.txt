@@ -1,0 +1,37 @@
+MASTER SERVICES AGREEMENT (MSA)
+Contract Reference: MSA-NEX-2024-01
+
+This Master Services Agreement ("Agreement") is made and entered into as of January 1, 2024 ("Effective Date"), by and between:
+
+CLIENT:
+Nexus Global Logistics Inc., a Washington corporation having its principal place of business at 450 Harbor Boulevard, Seattle, WA 98101 ("Nexus" or "Client"), and
+
+PROVIDER:
+Acme Technologies Inc., a Delaware corporation having its principal place of business at 100 Silicon Way, San Jose, CA 95112 ("Acme" or "Provider").
+
+1. ENGAGEMENT AND STATEMENTS OF WORK (SOW)
+Provider shall perform the technology architecture, cloud migration, and infrastructure management services specified in Statements of Work and Purchase Orders issued pursuant to this Agreement.
+
+2. TERM AND RENEWAL OBLIGATIONS
+2.1 Initial Term: The initial term of this Agreement commences on the Effective Date and expires on December 31, 2025 (a 24-month initial term).
+2.2 Automatic Renewal & Deadline Notice: This Agreement shall automatically renew for successive twelve (12) month periods unless either party provides written notice of non-renewal at least sixty (60) days prior to the expiration of the then-current term. The milestone notice deadline for non-renewal is November 1, 2025.
+
+3. FEES, PAYMENT TERMS, AND SPEND LIMITS
+3.1 Invoices: Provider shall invoice Client upon completion of deliverables. All invoices must be payable within thirty (30) days ("Net 30") of receipt.
+3.2 Purchase Order Cap: Invoices issued without a corresponding authorized Purchase Order, or exceeding the approved PO ceiling amount, shall be subject to immediate audit and approval withholding.
+
+4. SERVICE LEVEL AGREEMENT (SLA) & UPTIME
+Provider guarantees a monthly uptime of 99.9% for cloud hosting and critical routing APIs. Any outage exceeding four (4) consecutive hours requires a 10% service credit against the following month's fees.
+
+5. CONFIDENTIALITY AND DATA SECURITY
+Both parties agree that all proprietary business data, customer shipping manifests, and technical architecture designs are confidential and shall be protected for a period of five (5) years following termination of this Agreement.
+
+6. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the State of Washington, without regard to conflict of laws principles.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date.
+
+NEXUS GLOBAL LOGISTICS INC.             ACME TECHNOLOGIES INC.
+By: Sarah Jenkins                       By: Marcus Sterling
+Title: Chief Procurement Officer        Title: Chief Commercial Officer
+Date: January 1, 2024                   Date: January 1, 2024
